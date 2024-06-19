@@ -18,7 +18,7 @@ public class ImageConverter : EditorWindow
     private bool _isCancelled;
     private bool _checkDimensionsForMultiplesOfFour = false;
 
-    [MenuItem("Window/Image Converter")]
+    [MenuItem("Tools/Image Converter")]
     public static void ShowWindow()
     {
         GetWindow<ImageConverter>("Image Converter");

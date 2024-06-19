@@ -12,7 +12,7 @@ Files saved from Photoshop using Layers to File may have dimensions that are not
 Download the zip or install via PM → Add package from git URL → `https://github.com/r-set/UnityImageConverter.git?path=/Assets/ImageConverter` → Add
 
 ## Usage
-<p>1. In Unity, open Window → ImageConverter.</p>
+<p>1. In Unity, open Tools → ImageConverter.</p>
 <p align="left"><img src="Screenshots/step1_1.png"/></p>
 <p align="left"><img src="Screenshots/step1_2.png"/></p>
 <p>2. Select the folder from which to take the images.</p>

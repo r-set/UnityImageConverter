@@ -1,6 +1,6 @@
 {
   "name": "com.r-set.image_converter",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "displayName": "UnityImageConverter",
   "description": "The script converts images to .png and .jpg formats and resizes them to dimensions that are multiples of four for compression purposes",
   "keywords": [
